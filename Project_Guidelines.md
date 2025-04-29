@@ -91,12 +91,12 @@ We present the guidelines as a checklist in this file. This means that your team
 In the last week of classes (April 28th--May 2nd, 2025), each group will give a __short/brief__ presentation to the class (<mark>approximately 3-5 minutes</mark>). In the presentation, each team will share 1) what they are exploring, 2) __one (1)__ insight they have had so far, and 3) __one (1)__ challenge they have encountered as they work (if any). As the name suggests, these presentations are not for teams to present polished and completed reports but instead to give a snapshot of what they are currently doing to help inspire other teams.
 
 ## Learning Objectives and Outcomes Assessed
-This project is meant to provide one the last opportunities for each student to demonstrate their growth and development. In particular, this project provides us with data on the following learning objectives and outcomes.
+This project is meant to provide one the last opportunities for each student to demonstrate their growth and development. In particular, this project provides us with data on the following learning objectives and outcomes. We will be looking at several items including the body of your rendered output file, the code appendix of your rendered output file, and your GitHub repo (linked in a comment on your submission in Canvas).
 
 + Computational Thinking: Students will develop ways of thinking that make use of R’s computing power to solve problems.
   + CT.1: The student will learn to use statistical software (R) to solve problems. 
   + CT.2: The student will learn to apply the PCIP System to their work.
-  + CT.3: The student will learn to plan their functions and code out in advance of writing syntax. 
+  + ~CT.3: The student will learn to plan their functions and code out in advance of writing syntax.~
   + CT.4: The student will learn to check code for effectiveness and issues. 
 + Programming: Students will develop their skills in programming (creating code) with statistical software.
   + Prog. 3: The student will learn to apply the core programming principles to their work. 
